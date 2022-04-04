@@ -246,7 +246,7 @@ public class Main extends Canvas {
         displayCredits.setForeground(Color.white);
         displayCredits.setEditable(false);
         displayCredits.setHighlighter(null);
-        displayCredits.setText("              Credits:\n\nLevel Programmers:\nMaxwell Munro\nBobby Munro\n\nMusic Composer:\nOscar Munro\n\nLevel Designer:\nEdison Munro\n\nGraphics Designer:\nMaxwell Munro\n\nBeta Tester:\nMaxwell Munro\n\nContent Impressionists:\nLewis Threadgill\nStanley Bayfield\nHerbie Simpson\n\nBackend Programmer:\nMaxwell Munro");
+        displayCredits.setText("Me");
         frame2.add(displayCredits);
 
         frame.add(this);
